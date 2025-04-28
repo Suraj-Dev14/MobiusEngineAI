@@ -10,8 +10,8 @@ export default function LandingPage() {
       <header className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60">
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
-            <img src="\logo.svg" alt="HireSightPro Logo" width={32} height={32} className="h-8 w-8" />
-            <span className="text-xl font-bold text-primary">HireSightPro</span>
+            <img src="\logo.svg" alt="MobiusEngineAI Logo" width={32} height={32} className="h-8 w-8" />
+            <span className="text-xl font-bold text-primary">MobiusEngineAI</span>
           </div>
           <nav className="hidden md:flex items-center gap-6">
             <a href="#" className="text-sm font-medium hover:text-primary">
@@ -180,7 +180,7 @@ export default function LandingPage() {
                   name: "Andrew",
                   role: "Founder and Career Strategist",
                   img: "/placeholder.svg",
-                  bio: "Andrew is the founder of HireSightPro with over 15 years of experience in recruitment and career coaching. He has helped thousands of professionals land their dream jobs at top companies worldwide.",
+                  bio: "Andrew is the founder of MobiusEngineAI with over 15 years of experience in recruitment and career coaching. He has helped thousands of professionals land their dream jobs at top companies worldwide.",
                 },
                 {
                   name: "Emily",
@@ -241,7 +241,7 @@ export default function LandingPage() {
                         ))}
                       </div>
                       <p className="italic">
-                        "Thanks to HireSightPro, I received 3 interview invitations within a week of updating my resume.
+                        "Thanks to MobiusEngineAI, I received 3 interview invitations within a week of updating my resume.
                         The personalized guidance was exactly what I needed to stand out in a competitive job market."
                       </p>
                       <div className="flex items-center gap-3 mt-2">
@@ -272,7 +272,7 @@ export default function LandingPage() {
             <div className="flex flex-col items-center text-center mb-16">
               <h2 className="text-3xl font-bold tracking-tight sm:text-4xl mb-4">Why Choose Us?</h2>
               <p className="text-muted-foreground max-w-[600px]">
-                What sets HireSightPro apart from other resume services
+                What sets MobiusEngineAI apart from other resume services
               </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto">
@@ -621,8 +621,8 @@ export default function LandingPage() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="md:col-span-2">
               <div className="flex items-center gap-2 mb-4">
-                <img src="/logo.svg" alt="HireSightPro Logo" width={32} height={32} className="h-8 w-8" />
-                <span className="text-xl font-bold">HireSightPro</span>
+                <img src="/logo.svg" alt="MobiusEngineAI Logo" width={32} height={32} className="h-8 w-8" />
+                <span className="text-xl font-bold">MobiusEngineAI</span>
               </div>
               <p className="text-muted-foreground max-w-xs mb-4">
                 Professional resume services that help you land interviews faster and advance your career.
@@ -737,8 +737,8 @@ export default function LandingPage() {
                   San Francisco, CA 94103
                 </li>
                 <li>
-                  <a href="mailto:support@hiresightpro.com" className="text-muted-foreground hover:text-foreground">
-                    support@hiresightpro.com
+                  <a href="mailto:support@MobiusEngineAI.com" className="text-muted-foreground hover:text-foreground">
+                    support@MobiusEngineAI.com
                   </a>
                 </li>
                 <li>
@@ -751,7 +751,7 @@ export default function LandingPage() {
           </div>
           <div className="border-t mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-muted-foreground">
-              © {new Date().getFullYear()} HireSightPro. All rights reserved.
+              © {new Date().getFullYear()} MobiusEngineAI. All rights reserved.
             </p>
             <div className="flex gap-6">
               <a href="#" className="text-sm text-muted-foreground hover:text-foreground">
